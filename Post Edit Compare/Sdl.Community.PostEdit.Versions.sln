@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sdl.Community.PostEdit.Comp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sdl.Community.PostEdit.Compare.DAL", "..\Sdl.Community.PostEdit.Compare.DAL\Sdl.Community.PostEdit.Compare.DAL.csproj", "{D772940C-6DDD-4468-AD06-9CD07B9E1F05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sdl.Community.Toolkit.Tokenization", "..\..\community-toolkit\Sdl.Community.Toolkit.Tokenization\Sdl.Community.Toolkit.Tokenization.csproj", "{68256C9D-B6FC-4B19-AF67-91929FD8FBAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,14 @@ Global
 		{D772940C-6DDD-4468-AD06-9CD07B9E1F05}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D772940C-6DDD-4468-AD06-9CD07B9E1F05}.Release|x86.ActiveCfg = Release|Any CPU
 		{D772940C-6DDD-4468-AD06-9CD07B9E1F05}.Release|x86.Build.0 = Release|Any CPU
+		{68256C9D-B6FC-4B19-AF67-91929FD8FBAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68256C9D-B6FC-4B19-AF67-91929FD8FBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68256C9D-B6FC-4B19-AF67-91929FD8FBAF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{68256C9D-B6FC-4B19-AF67-91929FD8FBAF}.Debug|x86.Build.0 = Debug|Any CPU
+		{68256C9D-B6FC-4B19-AF67-91929FD8FBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68256C9D-B6FC-4B19-AF67-91929FD8FBAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68256C9D-B6FC-4B19-AF67-91929FD8FBAF}.Release|x86.ActiveCfg = Release|Any CPU
+		{68256C9D-B6FC-4B19-AF67-91929FD8FBAF}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

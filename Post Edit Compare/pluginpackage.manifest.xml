@@ -11,5 +11,6 @@
 		<File>Sdl.Community.PostEdit.Compare.Core.dll</File>		
 		<File>PostEdit.Compare.WinFormsUI.Docking.dll</File>
 		<File>EPPlus.dll</File>
+		<File>Sdl.Community.Toolkit.Tokenization.dll</File>
 	</Include>
 </PluginPackage>
